@@ -1,16 +1,60 @@
 
-### Olá! Eu sou o Davi Magalhães 👋
+<!-- Banner ou saudação -->
+<h1 align="center">🐍 Bem-vindo ao meu GitHub!</h1>
+<p align="center">
+  <b>Aprendendo Python • Construindo minha base • Evoluindo todos os dias</b>
+</p>
 
-[![Davi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=davimagalhaeslara&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/davimagalhaeslara/github-readme-stats#gh-dark-mode-only)
-[![Davi GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/davimagalhaeslara/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimagalhaeslara&layout=compact)
-## Tecnologias que utilizo:
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+---
+
+## 👾 Sobre mim
+- 🇧🇷 Brasileiro  
+- 📚 Estudante focado em **Python**  
+- 🧩 Interessado em: lógica, automações e análise de dados  
+- 🎯 Objetivo atual: dominar a base da programação  
+- ✨ Transformando estudo em prática — um passo por dia
+
+---
+
+## 🐍 Stack atual
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+
+---
+
+## 🎨 Estética do Perfil
+- Tema: **minimalista e objetivo**  
+- Repositórios organizados por estudos e evolução  
+- README focado em identidade e clareza  
+- Badge de progresso técnico (em construção 💡)  
+
+---
+
+## 📘 O que estou aprendendo
+- Fundamentos de Python  
+- Git & GitHub  
+- Estruturas de dados básicas  
+- Boas práticas de código  
+
+---
+
+## ✉️ Contato
+<p>
+  <a href="https://www.instagram.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:seuemail@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 Frase que me guia
+> _“Todo especialista já foi um iniciante que não desistiu.”_
+
+---
+
+<p align="center">
+  <sub>⭐ Em constante evolução. Volte daqui a alguns dias e veja o progresso! ⭐</sub>
+</p>

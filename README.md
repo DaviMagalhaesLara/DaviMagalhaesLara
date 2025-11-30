@@ -1,6 +1,6 @@
 <!-- Banner opcional -->
 <div align="center">
-  <img src="https://i.imgur.com/Zc7ZQYg.png" width="100%" alt="banner">
+  
 </div>
 
 <br>
@@ -48,8 +48,7 @@ Sou um estudante apaixonado por tecnologia e atualmente focado em **Python**.
 ## 📬 Como falar comigo
 <div align="left">
 
-📧 **Email:** seu-email-aqui  
-💬 **Instagram** (opcional): @seuuser  
+📧 **Email:** davilara.dev@gmail.com
 
 </div>
 
